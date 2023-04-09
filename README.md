@@ -21,4 +21,7 @@
 ![](https://github.com/anandbaheti/MIPS/blob/main/DATA/WB2.JPG)
 ### 5 stage PIPELLINED PROCESSOR (SCHEMATIC)
 ![](https://github.com/anandbaheti/MIPS/blob/main/DATA/PIPELLINED_PROCESSOR.JPG)
+![](https://github.com/anandbaheti/MIPS/blob/main/DATA/rtl1.JPG)
+![](https://github.com/anandbaheti/MIPS/blob/main/DATA/rtl2.JPG)
+![](https://github.com/anandbaheti/MIPS/blob/main/DATA/RTL_FULLVIEW.JPG)
 ![]()
