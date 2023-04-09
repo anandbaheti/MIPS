@@ -26,7 +26,7 @@
 ![](https://github.com/anandbaheti/MIPS/blob/main/DATA/rtl2.JPG)
 # RTL SCHEMATIC IN XILINX VIVADO
 ![](https://github.com/anandbaheti/MIPS/blob/main/DATA/RTL_FULLVIEW.JPG)
-![]()
+![](https://github.com/anandbaheti/MIPS/blob/main/DATA/EXTENDED_RTL.JPG)
 ![]()
 ![]()
 ![]()
