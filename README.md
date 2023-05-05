@@ -19,6 +19,9 @@
 ### STAGE 5: WRITE_BACK
 ![](https://github.com/anandbaheti/MIPS/blob/main/DATA/WB1.JPG)
 ![](https://github.com/anandbaheti/MIPS/blob/main/DATA/WB2.JPG)
+##### EXAMPLES
+![](https://github.com/anandbaheti/MIPS/blob/main/DATA/MIPS%20Example%201.JPG)
+![](https://github.com/anandbaheti/MIPS/blob/main/DATA/EX%202.JPG)
 ### 5 stage PIPELLINED PROCESSOR (SCHEMATIC)
 ![](https://github.com/anandbaheti/MIPS/blob/main/DATA/PIPELLINED_PROCESSOR.JPG)
 
@@ -27,7 +30,7 @@
 # RTL SCHEMATIC IN XILINX VIVADO
 ![](https://github.com/anandbaheti/MIPS/blob/main/DATA/RTL_FULLVIEW.JPG)
 ![](https://github.com/anandbaheti/MIPS/blob/main/DATA/EXTENDED_RTL.JPG)
-![]()
+
 ![]()
 ![]()
 
